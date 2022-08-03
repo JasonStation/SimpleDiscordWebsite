@@ -1,0 +1,144 @@
+*{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.main{
+    width: 1000px;
+    height: auto;
+    margin: auto;
+}
+
+.top{
+    text-align: center;
+}
+
+.logo{
+    position: absolute;
+    height: 75px;
+    width: 150px;
+    margin-left: 40px;
+}
+
+.reg-btn{
+    position: absolute;
+    color: blueviolet;
+    margin-left: 850px;
+    margin-top: 25px;
+    background-color: white;
+    padding: 5px 5px 5px 5px;
+    border-radius: 12px;
+    text-decoration: none;
+}
+
+
+.big-text{
+    position: absolute;
+    text-align: center;
+    color: white;
+    margin-top: 140px;
+    margin-left: 370px;
+}
+
+.top-img{
+    text-align: center;
+    height: 500px;
+    width: 1000px;
+}
+
+.desc-main{
+    position: absolute;
+    color: white;
+    margin-left: 280px;
+    margin-top: 200px;
+}
+
+.down-btn{
+    position: absolute;
+    background-color: rgb(56, 55, 55);
+    color: white;
+    padding: 10px 10px 10px 10px;
+    border-radius: 12px;
+    text-decoration: none;
+    margin-left: 440px;
+    margin-top: 320px;
+}
+
+.back1{
+    position: absolute;
+    top: 33%;
+    left: 16%;
+    height: 320px;
+    width: 420px;
+}
+
+.back2{
+    position: absolute;
+    top: 32%;
+    left: 60%;
+    height: 320px;
+    width: 420px;
+}
+
+.reliable{
+    text-align: center;
+    margin-top: 80px;
+}
+
+.reliable-desc{
+    text-align: center;
+}
+
+.devices{
+    height: 480px;
+    width: 720px;
+    margin-left: 140px;
+}
+
+.bottom{
+    background-color: rgb(230, 230, 230);
+    padding: 100px 400px 600px 20px;
+}
+
+.easy{
+    position: absolute;
+    margin-left: 20px;
+    margin-top: 200px;
+}
+
+.easy-desc{
+    position: absolute;
+    font-size: 15px;
+   margin-left: 20px;
+   margin-top: 260px;
+}
+
+.devices2{
+    position: absolute;
+    width: 480px;
+    height: 360px;
+    margin-left: 500px;
+    margin-top: 100px;
+}
+
+.footer{
+    background-color: rgb(65, 64, 64);
+    padding: 20px 20px 20px 20px;
+}
+
+.logo-again{
+    height: 75px;
+    width: 150px;
+    margin-left: 50px;
+    margin-top: 20px;
+}
+
+.insta{
+    position: absolute;
+    margin-left: 530px;
+    margin-top: 35px;
+}
+
+.yt{
+    margin-left: 600px;
+    margin-bottom: 25px;
+}
